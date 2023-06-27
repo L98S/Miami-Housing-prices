@@ -1,4 +1,4 @@
-# Miami-Housing-Prices-Prediction
+# Miami-Housing-Prices
 Hello and welcome to another data science project! In this endeavor, we will dive into the Miami Housing Dataset to predict house prices using its rich set of features. Miami's real estate market offers a captivating landscape for exploration, and through the power of data science, we aim to unlock valuable insights that can help forecast property values accurately.
 
 
